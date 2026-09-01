@@ -10,7 +10,6 @@
 
 🔭 Building small full-stack apps to level up my skills  
 🌱 Learning React, Tailwind, Firebase and how everything connects behind the scenes  
-💬 Jazz and 80s music enthusiast
 
 </div>
 
